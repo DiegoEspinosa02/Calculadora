@@ -1,0 +1,21 @@
+#main{
+    text-align: center;
+    padding: 200px;
+    background-color: aqua;
+}
+input{
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: violet;
+}
+h2{
+    background-color: aqua;
+    
+}
+
+#Num1{
+    float: left;
+    padding-right: 200px;
+}
